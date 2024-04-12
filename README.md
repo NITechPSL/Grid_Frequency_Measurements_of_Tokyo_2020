@@ -1,4 +1,4 @@
-# GridFrequencyMeasurements_of_Tokyo_2020
+# Grid_Frequency_Measurements_of_Tokyo_2020_for_MATLAB
 
 ## 概要
 
